@@ -1,0 +1,41 @@
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe.config
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.pdb
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.csprojResolveAssemblyReference.cache
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Facturacion.resources
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.resources
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Login.resources
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Properties.Resources.resources
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.dje-NE.resources
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.csproj.GenerateResource.Cache
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.exe
+e:\respaldo diego\documents\visual studio 2017\Projects\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.pdb
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe.config
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.pdb
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.csprojResolveAssemblyReference.cache
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Facturacion.resources
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.resources
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Login.resources
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Properties.Resources.resources
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.dje-NE.resources
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.csproj.GenerateResource.Cache
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.exe
+C:\Users\dmbyv\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.pdb
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe.config
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.exe
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\Proyecto_Pozo_Verde_V1.pdb
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\bin\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Facturacion.resources
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.resources
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Login.resources
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Properties.Resources.resources
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.Visual_Forms.Ven_Principal.dje-NE.resources
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.csproj.GenerateResource.Cache
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\dje-NE\Proyecto_Pozo_Verde_V1.resources.dll
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.exe
+E:\Respaldo Diego\Desktop\Proyecto Verde Pozo Verde (Café)\Proyecto_Pozo_Verde_V1\Proyecto_Pozo_Verde_V1\obj\Debug\Proyecto_Pozo_Verde_V1.pdb
