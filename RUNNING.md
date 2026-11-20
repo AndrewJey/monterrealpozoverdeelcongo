@@ -30,3 +30,11 @@ Inventario y compilaciones locales del 2026-11-15. Una compilación correcta no 
 
 `.gitignore` excluye credenciales locales, estado del editor y salidas de las herramientas detectadas. No deja de versionar archivos que ya estaban en Git. Los manifiestos, archivos de bloqueo, recursos fuente y scripts de esquema forman parte del código.
 <!-- local-development:end -->
+
+<!-- improvements-20261119:start -->
+## Mejoras y verificación — 2026-11-19 (CRUD real de facturación con IVA 13%, seguridad de login y ciclo de vida MDI)
+
+- Implementado `FacturacionStore` y `LineaFactura` integrados a `Ven_Facturacion` para agregar, editar y eliminar líneas reales en el `DataGridView`, recalculando Subtotal, Descuentos, IVA (13%) y Total, con soporte de persistencia en archivo.
+- Activado enmascaramiento de contraseña (`UseSystemPasswordChar`), cierre limpio de `Login` al cerrar `Ven_Principal`, prevención de ventanas MDI duplicadas y corrección de textos UI en ambas copias del proyecto.
+- Validación: compilación MSBuild de ambos `.csproj` y 12 aserciones automatizadas de validaciones, cálculo tributario y persistencia.
+<!-- improvements-20261119:end -->

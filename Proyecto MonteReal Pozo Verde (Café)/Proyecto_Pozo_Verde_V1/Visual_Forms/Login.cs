@@ -1,20 +1,15 @@
-﻿using Proyecto_Pozo_Verde_V1.Class_Validaciones;
+using Proyecto_Pozo_Verde_V1.Class_Validaciones;
 using Proyecto_Pozo_Verde_V1.Visual_Forms;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Proyecto_Pozo_Verde_V1
 {
     public partial class Login : Form
     {
-        private Val_Login valLogin = new Val_Login();
+        private readonly Val_Login valLogin = new Val_Login();
+
         public Login()
         {
             InitializeComponent();
@@ -22,7 +17,7 @@ namespace Proyecto_Pozo_Verde_V1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Dispose();
+            Application.Exit();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -30,46 +25,61 @@ namespace Proyecto_Pozo_Verde_V1
             if (valLogin.validacion(txtUsuario.Text, txtPass.Text))
             {
                 Ven_Principal vP = new Ven_Principal();
+                vP.FormClosed += (s, args) =>
+                {
+                    if (!this.IsDisposed)
+                    {
+                        this.Close();
+                    }
+                };
                 vP.Show();
                 this.Hide();
             }
-            else {
-                MessageBox.Show("Usuario o Contraseña incorrectos, favor verifique los datos.");
+            else
+            {
+                MessageBox.Show(
+                    "Usuario o contraseña incorrectos, por favor verifique los datos.",
+                    "Inicio de sesión",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning);
             }
         }
 
         private void txtUsuario_Enter(object sender, EventArgs e)
         {
-            if (txtUsuario.Text.Equals("Nombre de Usuario")) {
+            if (txtUsuario.Text.Equals(Val_Login.PlaceholderUsuario))
+            {
                 txtUsuario.ForeColor = Color.Black;
-                txtUsuario.Text = "";
+                txtUsuario.Text = string.Empty;
             }
         }
 
         private void txtUsuario_Leave(object sender, EventArgs e)
         {
-            if (txtUsuario.Text.Equals(""))
+            if (string.IsNullOrWhiteSpace(txtUsuario.Text))
             {
                 txtUsuario.ForeColor = Color.Gray;
-                txtUsuario.Text = "Nombre de Usuario";
+                txtUsuario.Text = Val_Login.PlaceholderUsuario;
             }
         }
 
         private void txtPass_Enter(object sender, EventArgs e)
         {
-            if (txtPass.Text.Equals("Contraseña"))
+            if (txtPass.Text.Equals(Val_Login.PlaceholderPass))
             {
                 txtPass.ForeColor = Color.Black;
-                txtPass.Text = "";
+                txtPass.Text = string.Empty;
+                txtPass.UseSystemPasswordChar = true;
             }
         }
 
         private void txtPass_Leave(object sender, EventArgs e)
         {
-            if (txtPass.Text.Equals(""))
+            if (string.IsNullOrWhiteSpace(txtPass.Text))
             {
+                txtPass.UseSystemPasswordChar = false;
                 txtPass.ForeColor = Color.Gray;
-                txtPass.Text = "Contraseña";
+                txtPass.Text = Val_Login.PlaceholderPass;
             }
         }
     }
